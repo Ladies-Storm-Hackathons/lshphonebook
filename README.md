@@ -14,4 +14,5 @@ Sorted alphabetically by first name. To add yourself:
 | Amy Chen     |  | [@amy](https://github.com/amy) | [@TheAmyCode](https://twitter.com/TheAmyCode) | [@amy](https://medium.com/@amy) | [@TheAmyCode](http://stackoverflow.com/users/3650057/theamycode) |
 | Casey Chien   |  [caseychien.github.io](https://caseychien.github.io) | [@caseychien](https://github.com/caseychien) |
 | Dana Christo     | [invaderlucky.com](http://www.invaderlucky.com) | [@invaderlucky](https://github.com/invaderlucky) | [@invader_lucky](https://twitter.com/invader_lucky) |
+| Maegan Clawges | [maeganclawges.com](http://maeganclawges.com) | [@mclawges22](https://github.com/mclawges22) | [@maeganclawges](https://twitter.com/maeganclawges) |
 Shubheksha Jalan | [shubheksha.com](https://shubheksha.com) | [@shubheksha](http://github.com/shubheksha) | [@ScribblingOn](http://www.twitter.com/ScribblingOn) | [@shubheksha](https://medium.com/@shubheksha) & [drawings.shubheksha.com](https://drawings.shubheksha.com) |
